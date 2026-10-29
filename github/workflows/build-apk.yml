@@ -41,4 +41,4 @@ jobs:
         with:
           name: top-videos-debug-apk
           path: app/build/outputs/apk/debug/*.apk
-          if-no-files-found: error
+          if-no-files-found: error.
